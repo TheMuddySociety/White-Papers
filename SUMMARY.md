@@ -3,12 +3,12 @@
 ## 📖 Muddy Beginning&#x20;
 
 * [👋 🥤Mud Dude’s](README.md)
-* [🥤 SiPPERz Machine](muddy-beginning/sipperz-machine.md)
-* [🧑🔬 Mudification](muddy-beginning/mudification.md)
-* [🥤 Staking or SiPPin ](muddy-beginning/staking-or-sippin.md)
-* [🪙 Shares & Breakdowns](muddy-beginning/shares-and-breakdowns.md)
-* [🤯 IRL EVENTS ](muddy-beginning/irl-events.md)
-* [💰 Treasury BiG SiPPERz POT](muddy-beginning/treasury-big-sipperz-pot.md)
+* [🥤 SiPPERz Machine](overview/sipperz-machine.md)
+* [🧑🔬 Mudification](overview/mudification.md)
+* [🥤 Staking or SiPPin ](overview/staking-or-sippin.md)
+* [🪙 Shares & Breakdowns](overview/shares-and-breakdowns.md)
+* [🤯 IRL EVENTS ](overview/irl-events.md)
+* [💰 Treasury BiG SiPPERz POT](overview/treasury-big-sipperz-pot.md)
 
 ## 🛠 Utilities
 
