@@ -12,8 +12,6 @@
 
 ## 🛠 Utilities
 
-* [🧑🔬 Mudification](utilities/mudification/README.md)
-  * [Free Mint Collections](utilities/mudification/free-mint-collections.md)
 * [🥤 Staking or SiPPin ](utilities/staking-or-sippin.md)
 * [🥤 SiPPERz Machine](utilities/sipperz-machine.md)
 
@@ -21,6 +19,8 @@
 
 * [🏗 Muddy Creators / Artist](muddy-family/muddy-creators-artist.md)
 * [💎 MUDDY CORE](muddy-family/muddy-core.md)
+* [🧑🔬 Mudification](muddy-family/mudification/README.md)
+  * [Free Mint Collections](muddy-family/mudification/free-mint-collections.md)
 
 ## Use Cases
 
