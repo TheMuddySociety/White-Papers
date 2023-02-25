@@ -34,12 +34,12 @@ Muddyverse
 
 ## Quick links
 
-{% content-ref url="overview/sipperz-machine.md" %}
-[sipperz-machine.md](overview/sipperz-machine.md)
+{% content-ref url="muddy-beginning/sipperz-machine.md" %}
+[sipperz-machine.md](muddy-beginning/sipperz-machine.md)
 {% endcontent-ref %}
 
-{% content-ref url="overview/mudification.md" %}
-[mudification.md](overview/mudification.md)
+{% content-ref url="muddy-beginning/mudification.md" %}
+[mudification.md](muddy-beginning/mudification.md)
 {% endcontent-ref %}
 
 Quick links.
@@ -52,6 +52,6 @@ Quick links.
 [Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="overview/staking-or-sippin.md" %}
-[staking-or-sippin.md](overview/staking-or-sippin.md)
+{% content-ref url="muddy-beginning/staking-or-sippin.md" %}
+[staking-or-sippin.md](muddy-beginning/staking-or-sippin.md)
 {% endcontent-ref %}
