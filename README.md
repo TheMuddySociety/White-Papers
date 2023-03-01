@@ -34,12 +34,12 @@ Muddyverse
 
 ## Quick links
 
-{% content-ref url="overview/sipperz-machine.md" %}
-[sipperz-machine.md](overview/sipperz-machine.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="overview/mudification.md" %}
-[mudification.md](overview/mudification.md)
+{% content-ref url="muddy-beginning/mudification-free-mint.md" %}
+[mudification-free-mint.md](muddy-beginning/mudification-free-mint.md)
 {% endcontent-ref %}
 
 Quick links.

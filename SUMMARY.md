@@ -3,8 +3,7 @@
 ## 📖 Muddy Beginning&#x20;
 
 * [👋 🥤Mud Dude’s](README.md)
-* [🥤 SiPPERz Machine](overview/sipperz-machine.md)
-* [🧑🔬 Mudification](overview/mudification.md)
+* [🧑🔬 Mudification / Free Mint ](muddy-beginning/mudification-free-mint.md)
 * [🥤 Staking or SiPPin ](overview/staking-or-sippin.md)
 * [🪙 Shares & Breakdowns](overview/shares-and-breakdowns.md)
 * [🤯 IRL EVENTS ](overview/irl-events.md)
