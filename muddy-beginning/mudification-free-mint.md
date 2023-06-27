@@ -2,7 +2,7 @@
 description: 🥤Modification aka Mudification & Perks
 ---
 
-# 🧑🔬 Mudification
+# 🧑🔬 Mudification / Free Mint&#x20;
 
 {% hint style="info" %}
 **GitBook tip:** A succinct video overview is a great way to introduce folks to your product. Embed a Loom, Vimeo or YouTube video and you're good to go! We love this video from the fine folks at Loom as a perfect example of a succinct feature overview.
@@ -25,4 +25,4 @@ Mud Dudes DAO will have a burn system for rugged projects or cold projects.  &#x
 
 ## Mudification Muddy Machine
 
-<figure><img src="../.gitbook/assets/Transformation Ai Cup 1.jpg" alt=""><figcaption><p>Ai Concept Art of Mudification machine.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/20230327_164308.gif" alt=""><figcaption><p>Women's Muddy NFTs (Launch My NFTs)</p></figcaption></figure>
