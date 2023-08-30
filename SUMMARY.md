@@ -12,6 +12,7 @@
 
 * [🥤 The Mud Factory👕👖👟](utilities/the-mud-factory.md)
 * [🥤 Staking or SiPPin ](utilities/staking-or-sippin.md)
+* [🎙 Music 🥤](utilities/music.md)
 
 ## Muddy Family
 
