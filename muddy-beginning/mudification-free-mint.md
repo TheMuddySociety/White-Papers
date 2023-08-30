@@ -30,14 +30,41 @@ We are test othe machine to come up with the ideas and plans for the Mudificatio
 
 Want to Mint?
 
-{% code title="WMNFT" overflow="wrap" lineNumbers="true" %}
+{% code overflow="wrap" lineNumbers="true" fullWidth="true" %}
 ```html
+<!DOCTYPE html>
+<html>
+<head>
   <script>
         window.ownerId = "H31SYRshCgCoe1wVAnVzXFn9zyPLkME6vqujDBFDMmns"
         window.collectionId = "LPUPrnKFXPvFhqdRgONc"
     </script>
     <script type="module" src="https://storage.googleapis.com/scriptslmt/0.1.3/solana.js"></script>
     <link rel="stylesheet" href="https://storage.googleapis.com/scriptslmt/0.1.3/solana.css">
+
+    <style>
+        #main-container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+        }
+        #mint-counter {
+            color: wheat;
+        }
+    </style>
+</head>
+
+<body style="background-color: black">
+<div id="main-container">
+    <h1 style="color: white">Coolest Mint</h1>
+
+    <!--  Mint button gets injected here  -->
+    <div id="mint-button-container"></div>
+    <div id="mint-counter"></div>
+</div>
+</body>
+</html>
 ```
 {% endcode %}
 
