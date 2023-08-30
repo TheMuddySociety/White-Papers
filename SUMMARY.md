@@ -4,15 +4,14 @@
 
 * [👋 🥤The Muddy Society](README.md)
 * [🧑🔬 Mudification / Free Mint ](muddy-beginning/mudification-free-mint.md)
-* [🥤 Staking or SiPPin ](overview/staking-or-sippin.md)
 * [🪙 Shares & Breakdowns](overview/shares-and-breakdowns.md)
 * [🤯 IRL EVENTS ](overview/irl-events.md)
 * [💰 Dr. SiPz Labz](muddy-beginning/dr.-sipz-labz.md)
 
 ## 🛠 Utilities
 
+* [🥤 The Mud Factory👕👖👟](utilities/the-mud-factory.md)
 * [🥤 Staking or SiPPin ](utilities/staking-or-sippin.md)
-* [🥤 SiPPERz Machine](utilities/sipperz-machine.md)
 
 ## Muddy Family
 
