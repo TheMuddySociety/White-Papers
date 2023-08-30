@@ -7,7 +7,7 @@
 * [🥤 Staking or SiPPin ](overview/staking-or-sippin.md)
 * [🪙 Shares & Breakdowns](overview/shares-and-breakdowns.md)
 * [🤯 IRL EVENTS ](overview/irl-events.md)
-* [💰 Treasury BiG SiPPERz POT](overview/treasury-big-sipperz-pot.md)
+* [💰 Dr. SiPz Labz](muddy-beginning/dr.-sipz-labz.md)
 
 ## 🛠 Utilities
 
