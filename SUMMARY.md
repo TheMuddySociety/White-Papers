@@ -16,12 +16,8 @@
 ## Muddy Family
 
 * [🏗 Muddy Creators / Artist](muddy-family/muddy-creators-artist.md)
-* [💎 MUDDY CORE](muddy-family/muddy-core.md)
-* [🧑🔬 Mudification](muddy-family/mudification/README.md)
-  * [Free Mint Collections](muddy-family/mudification/free-mint-collections.md)
 
 ## Use Cases
 
-* [🖥 For Developers](use-cases/for-developers.md)
 * [💳 DOXXED](use-cases/doxxed.md)
 * [🪙 Token ](use-cases/token.md)
