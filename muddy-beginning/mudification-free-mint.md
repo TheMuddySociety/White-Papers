@@ -10,9 +10,9 @@ description: 🥤Modification aka Mudification & Perks
 
 ## Modification / Mudification
 
-Mud Dudes DAO will have a burn system for rugged projects or cold projects.  &#x20;
+The Muddy Society: Modification / Mudification   &#x20;
 
-1. At our brand, we strive to provide added value to our community by constantly improving our offerings. As part of this commitment, we are pleased to announce that we will be implementing a new art style to enhance the overall aesthetic of our project.
+1. &#x20;to our community by constantly improving our offerings. As part of this commitment, we are pleased to announce that we will be implementing a new art style to enhance the overall aesthetic of our project.
 2.
 
     This new art style will be exclusively available as a free mint to our WL holders or MuddyOg roles, who will obtain our tokens to mint. Moreover, during the modification process, we will be launching a token campaign where those who burn their tokens will earn the opportunity to participate in the upcoming 10.5 million $SLABz airdrop, which can be used towards the minting of the one million $SLABz project.

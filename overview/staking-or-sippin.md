@@ -6,7 +6,23 @@ description: Staking or SiPPin what we love to call it.
 
 ### **Staking our NFTs🥤**
 
-Mud Dudes DAO on Solana blockchain presents an exciting opportunity for our NFT holders to stake their NFTs and earn rewards. By staking our NFTs, you can gain access to daily rewards of up to 10 million $SLABz, with a multiplier based on the number of NFTs you have staked. This creates BiG SiPPERz without the need for an additional coin, making our token holders a part of a wide range of upcoming developments under the Mud Dudes DAO brand.
+Anybodies Stake Platform is ourr main and only staking platform we use.
 
-We are proud to offer our token holders a unique and rewarding experience. By staking your NFTs with us, you become a part of the Mud Dudes DAO community, where you can access exclusive benefits and participate in exciting opportunities. Royalties will be explained in detail on our breakdown page, where you can find all the information you need to make informed decisions about staking your NFTs with us.&#x20;
+How to Stake:&#x20;
 
+1. Connect Phantom Wallet or SoFlair Wallet (Sol - Solana Blockchain)
+2. Supscription fees is 0.025 Sol = $0.53 as of today.
+3. Rewards Distributed base 100,000 $DSLABz; with **Multiplier Contracts.**
+4. **Use case as of now. Raffles, Minting, and transforming into Solana Memcoin.**
+
+**1/1 Holders Multiplier Contracts**&#x20;
+
+**1,000,000 $DSLABz reward only to 1/1 holders**
+
+
+
+## Want to buy & Stake?&#x20;
+
+Magic Eden Seconary Market: [https://magiceden.io/marketplace/wmnft](https://magiceden.io/marketplace/wmnft)
+
+Staking Site: [**https://anybodies.com/c/wmnft**](https://anybodies.com/c/wmnft)

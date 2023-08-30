@@ -2,7 +2,7 @@
 
 ## 📖 Muddy Beginning&#x20;
 
-* [👋 🥤Mud Dude’s](README.md)
+* [👋 🥤The Muddy Society](README.md)
 * [🧑🔬 Mudification / Free Mint ](muddy-beginning/mudification-free-mint.md)
 * [🥤 Staking or SiPPin ](overview/staking-or-sippin.md)
 * [🪙 Shares & Breakdowns](overview/shares-and-breakdowns.md)
