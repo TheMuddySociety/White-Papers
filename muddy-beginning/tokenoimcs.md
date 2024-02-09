@@ -1,5 +1,7 @@
 ---
-description: SiPP3Rz Muddy Memecoin $DSLABz
+description: >-
+  SiPP3Rz Muddy Memecoin $DSLABz CA |
+  Dwvnb1bvFyTVvXTjDcFWgUhvz5Pe1oC1iEhhj9K4NJPc
 cover: ../.gitbook/assets/BonkBoy-Logo (1).png
 coverY: 0
 ---
