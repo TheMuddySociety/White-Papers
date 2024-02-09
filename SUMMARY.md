@@ -4,7 +4,7 @@
 
 * [👋 🥤The Muddy Society](README.md)
 * [🧑🔬 Mudification / Free Mint ](muddy-beginning/mudification-free-mint.md)
-* [🪙 Shares & Breakdowns](overview/shares-and-breakdowns.md)
+* [🪙 Tokenoimcs](muddy-beginning/tokenoimcs.md)
 * [🤯 IRL EVENTS ](overview/irl-events.md)
 * [💰 Dr. SiPz Labz](muddy-beginning/dr.-sipz-labz.md)
 

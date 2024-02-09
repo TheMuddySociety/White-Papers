@@ -1,5 +1,5 @@
 ---
-description: SiPPERz - Dr. SiPz Labz $DSLABz Token / Allmost Memecoin
+description: SiPPERz - Dr. SiPz Labz $DSLABz Token / Art Driven Memecoin
 ---
 
 # 💰 Dr. SiPz Labz
@@ -9,7 +9,7 @@ The Muddy Society DAO treasury is the financial backbone of our community. It's 
 Here's a breakdown of our treasury plan:
 
 1. Token allocations: A portion of our treasury is allocated towards our token, $DSLABz. This helps to increase liquidity and support the value of our token.
-2. Community funds: 50% of our revenue share from NFT mints will be allocated towards community funds through our token. These funds will be used to support our community through various initiatives such as airdrops, rewards programs, and more.
+2. Community funds: % of our revenue share from NFT mints will be allocated towards community funds through our token. These funds will be used to support our community through various initiatives such as airdrops, rewards programs, and more.
 3. Project funding: A portion of our treasury will be allocated towards funding new projects and initiatives. This includes funding for new NFT collections, events, and other projects that align with our DAO's mission.
 4. Expenses: A portion of our treasury will be allocated towards covering the expenses of our DAO. This includes expenses related to events, marketing, and other operational costs.
 
