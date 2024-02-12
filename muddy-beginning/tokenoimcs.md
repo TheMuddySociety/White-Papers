@@ -8,6 +8,10 @@ coverY: 0
 
 # 🪙 Tokenoimcs
 
+
+
+<figure><img src="../.gitbook/assets/IMG_1944.png" alt=""><figcaption></figcaption></figure>
+
 ### 100% Breakdown of tokenomics:
 
 40% to Solana Community. LP Locked on: [https://www.guacamole.gg/launch/lock/view/9mebDcdWRDoQn2ANeRrQmJYecaLro9kaNRhL7kmn53yN](https://www.guacamole.gg/launch/lock/view/9mebDcdWRDoQn2ANeRrQmJYecaLro9kaNRhL7kmn53yN)
