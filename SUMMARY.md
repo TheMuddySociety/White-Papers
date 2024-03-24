@@ -3,20 +3,20 @@
 ## 📖 Muddy Beginning&#x20;
 
 * [👋 🥤The Muddy Society](README.md)
-* [🧑🔬 Mudification / Free Mint ](muddy-beginning/mudification-free-mint.md)
+* [🧑‍🔬 Mudification / Free Mint ](muddy-beginning/mudification-free-mint.md)
 * [🪙 Tokenoimcs](muddy-beginning/tokenoimcs.md)
 * [🤯 IRL EVENTS ](overview/irl-events.md)
 * [💰 Dr. SiPz Labz](muddy-beginning/dr.-sipz-labz.md)
 
-## 🛠 Utilities
+## 🛠️ Utilities
 
 * [🥤 The Mud Factory👕👖👟](utilities/the-mud-factory.md)
 * [🥤 Staking or SiPPin ](utilities/staking-or-sippin.md)
-* [🎙 Music 🥤](utilities/music.md)
+* [🎙️ Music 🥤](utilities/music.md)
 
 ## Muddy Family
 
-* [🏗 Muddy Creators / Artist](muddy-family/muddy-creators-artist.md)
+* [🏗️ Muddy Creators / Artist](muddy-family/muddy-creators-artist.md)
 
 ## Use Cases
 

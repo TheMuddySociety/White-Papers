@@ -1,7 +1,5 @@
 ---
-description: >-
-  SiPP3Rz Muddy Memecoin $DSLABz CA |
-  Dwvnb1bvFyTVvXTjDcFWgUhvz5Pe1oC1iEhhj9K4NJPc
+description: '$DANz Token: 6cRBHTjWM67iFhC3XeTafL5FsHiwduhVAAngjvEHe3px'
 cover: ../.gitbook/assets/BonkBoy-Logo (1).png
 coverY: 0
 ---
@@ -10,48 +8,72 @@ coverY: 0
 
 
 
-<figure><img src="../.gitbook/assets/IMG_1944.png" alt=""><figcaption></figcaption></figure>
+\
+**Tokenomics / Token Supply:** <mark style="color:red;">**1,000,000,000**</mark>&#x20;
 
-### 100% Breakdown of tokenomics:
+• **Community Allocation:** 60% of tokens distributed to the community for governance and participation. &#x20;
 
-40% to Solana Community. LP Locked on: [https://www.guacamole.gg/launch/lock/view/9mebDcdWRDoQn2ANeRrQmJYecaLro9kaNRhL7kmn53yN](https://www.guacamole.gg/launch/lock/view/9mebDcdWRDoQn2ANeRrQmJYecaLro9kaNRhL7kmn53yN)
+\~ 600,000,000  Break⬇️&#x20;
 
-30% The Muddy Society Community Lock in Staking LP.
+\~ Presale 20% = 200,000,000&#x20;
 
-15% Creating partnerships for ART and MUSIC driven use cases.
+\~ 25 1/1's attach to 250,000,000 or 150,000,000 (Break⬇️ Below)&#x20;
 
-10% Marketing
+\~ Airdrop 5% before pair.&#x20;
 
-5% The Muddy Society (Keep a float.)
+• Marketing Allocation: 20% of tokens reserved for marketing efforts to raise awareness and attract users. &#x20;
 
-## Phase 1:&#x20;
+200,000,000 burning supply after we reach a market goal.&#x20;
 
-* Use Case mint with token Women's Muddy NFT (Bad Batch)&#x20;
-* Burn Tokens was use to mint from new holders.
-* Raffles
-* Giveaways
+• Development Allocation: 15% of tokens allocated for ongoing development and ecosystem growth. 150,000,000&#x20;
 
-## Phase 2:
+• Game Allocation: 5% of tokens designated for integrating interactive gaming features to enhance user engagement.&#x20;
 
-* Stealth Launch Token (Low LP)&#x20;
-* Pair Token $DSLABz/$SOL on [<mark style="color:purple;">**Raydium**</mark>](#user-content-fn-1)[^1] OpenBook Address: 9mebDcdWRDoQn2ANeRrQmJYecaLro9kaNRhL7kmn53yN
-* Second Part Mint to burn.
+50,000,000&#x20;
 
-## Phase 3:&#x20;
-
-* $DSLABz/USDC Pair. (WEN) 2024
-* List on other dex markets. (WEN) 2024
-* Market Presale for USDC pair event. (WEN) 2024
-* Build for the ecosystems of the token. (WEN) 2024
-* Grants: Founder Grants Meaning Partnership, Small Community Grants.&#x20;
-* Update token to 2022 when program software is out and ready from the creators of the program token2022.&#x20;
-
-(MINTED OUT) Launch My NFT: [https://launchmynft.io/collections/H31SYRshCgCoe1wVAnVzXFn9zyPLkME6vqujDBFDMmns/LPUPrnKFXPvFhqdRgONc](https://launchmynft.io/collections/H31SYRshCgCoe1wVAnVzXFn9zyPLkME6vqujDBFDMmns/LPUPrnKFXPvFhqdRgONc)
-
-(SECONDARY MARKET) Magic Eden: [https://magiceden.io/marketplace/wmnft](https://magiceden.io/marketplace/wmnft)
+• Transaction Fee Allocation: 0.1% of each trade directed towards supporting the project's ecosystem, funding initiatives, or rewarding stakeholders. 1/1’s more than art but characters for comics, animation, merch / shop, some gaming, and a touch of anime music videos.
 
 
 
+<mark style="color:red;">**Phase 2 1/1’s**</mark>
+
+Phase 2 D3M0N DAN 1/1&#x20;
+
+• 4000x4000 • Custom pencil&#x20;
+
+• Created on iPad on Procreate
+
+1/1 Funds Break Down&#x20;
+
+• 60% \~ LP&#x20;
+
+• 20% \~ Marketing Manager&#x20;
+
+• 10% \~ Treasury&#x20;
+
+• 10% \~ House Artist Dr.SiPz&#x20;
+
+\
+Earn $DANz before pair auction:&#x20;
+
+Only 25 will be auction off in this with supply of 150,000,000 or 250,000,000&#x20;
+
+<mark style="color:red;">**$DANz**</mark> to <mark style="color:red;">**Earn**</mark> from <mark style="color:red;">**Auction**</mark>.&#x20;
+
+• 10SOL \~ 10M :whale2:&#x20;
+
+• 5SOL \~ 5M :whale2:&#x20;
+
+• 3SOL \~ 3M
+
+• 2SOL \~ 2M&#x20;
+
+• 1SOL \~ 1M\
+
+
+
+
+###
 
 
 
@@ -60,5 +82,8 @@ coverY: 0
 
 
 
-[^1]: Click To Start Trading
+
+
+
+
 
