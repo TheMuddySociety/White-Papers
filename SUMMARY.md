@@ -2,11 +2,10 @@
 
 ## 📖 Muddy Beginning&#x20;
 
-* [👋 🥤The Muddy Society](README.md)
+* [🥤 The Muddy Society](README.md)
 * [✏️ Art](muddy-beginning/art.md)
-* [🪙 Tokenoimcs](muddy-beginning/tokenoimcs.md)
-* [🤯 IRL EVENTS ](overview/irl-events.md)
-* [💰 Dr. SiPz Labz](muddy-beginning/dr.-sipz-labz.md)
+* [🎼 Music NFTs](muddy-beginning/music-nfts.md)
+* [🧪 Dr. SiPz LAB](muddy-beginning/dr.-sipz-lab.md)
 
 ## 🛠️ Utilities
 

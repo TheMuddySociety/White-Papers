@@ -6,7 +6,7 @@ cover: .gitbook/assets/4267EC15-1204-4C9C-AE4C-9E2A18519786.png
 coverY: 0
 ---
 
-# 👋 🥤The Muddy Society
+# 🥤 The Muddy Society
 
 {% hint style="info" %}
 **GitBook tip:** your product docs aren't just a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.
