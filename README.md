@@ -1,7 +1,7 @@
 ---
 description: >-
-  The Muddy Society Founded by Dr. SiPz. Express Art, Music and Drippy fashion.
-  While slanging $DSLABz on Solana BLVD (Blockchain).
+  The Muddy Society: Express Art, Music and Drippy fashion on Solana BLVD
+  (Blockchain).
 cover: .gitbook/assets/4267EC15-1204-4C9C-AE4C-9E2A18519786.png
 coverY: 0
 ---
@@ -36,8 +36,8 @@ Muddyverse🥤
 
 ## Quick links
 
-{% content-ref url="muddy-beginning/mudification-free-mint.md" %}
-[mudification-free-mint.md](muddy-beginning/mudification-free-mint.md)
+{% content-ref url="muddy-beginning/art.md" %}
+[art.md](muddy-beginning/art.md)
 {% endcontent-ref %}
 
 Quick links.
