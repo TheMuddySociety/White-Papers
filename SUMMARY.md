@@ -5,13 +5,12 @@
 * [🥤 The Muddy Society](README.md)
 * [✏️ Art](muddy-beginning/art.md)
 * [🎼 Music NFTs](muddy-beginning/music-nfts.md)
-* [🧪 Dr. SiPz LAB](muddy-beginning/dr.-sipz-lab.md)
 
 ## 🛠️ Utilities
 
+* [🥤 Staking SiPP3Rz](utilities/staking-sipp3rz.md)
+* [🧪 Dr. SiPz LAB](utilities/dr.-sipz-lab.md)
 * [🥤 The Mud Factory👕👖👟](utilities/the-mud-factory.md)
-* [🥤 Staking or SiPPin ](utilities/staking-or-sippin.md)
-* [🎙️ Music 🥤](utilities/music.md)
 
 ## Muddy Family
 

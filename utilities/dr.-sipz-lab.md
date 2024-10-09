@@ -11,8 +11,7 @@ coverY: 0
 Holders simply visit our shop, select an item that you would like to purchase then choose which SPL they would like to purchase it in. The item is then sent directly to thier wallet.
 
 * Purchase Exlcusive Traits, NFTs, or Items
-* For **holders,** the benefits are as follows,
-* Burn tokens earned from staking.
+* For **holders,** the benefits are as follows: Burn tokens earned from staking.
 * Provides a Unique utility for holders.
 
 <figure><img src="../.gitbook/assets/IMG_2412.gif" alt=""><figcaption></figcaption></figure>

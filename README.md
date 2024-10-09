@@ -46,6 +46,6 @@ Quick links.
 [doxxed.md](use-cases/doxxed.md)
 {% endcontent-ref %}
 
-{% content-ref url="utilities/staking-or-sippin.md" %}
-[staking-or-sippin.md](utilities/staking-or-sippin.md)
+{% content-ref url="utilities/staking-sipp3rz.md" %}
+[staking-sipp3rz.md](utilities/staking-sipp3rz.md)
 {% endcontent-ref %}
