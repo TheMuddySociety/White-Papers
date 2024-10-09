@@ -12,11 +12,7 @@
 * [🧪 Dr. SiPz LAB](utilities/dr.-sipz-lab.md)
 * [🥤 The Mud Factory👕👖👟](utilities/the-mud-factory.md)
 
-## Muddy Family
-
-* [🏗️ Muddy Creators / Artist](muddy-family/muddy-creators-artist.md)
-
 ## Use Cases
 
 * [💳 DOXXED](use-cases/doxxed.md)
-* [🪙 Token ](use-cases/token.md)
+* [🪙 Tokens](use-cases/tokens.md)
